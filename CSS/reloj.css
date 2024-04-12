@@ -1,0 +1,16 @@
+body {
+    background-image: url("../img/space3.webp");
+    background-repeat: no-repeat;
+    font-family: "Space Grotesk", sans-serif;
+    }
+
+    
+.dentro {
+    color:lime;
+    width: 240px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 1px solid lime;
+    font-size: 36px;
+}
+
